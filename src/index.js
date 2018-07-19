@@ -1,1 +1,3 @@
-console.log('Hello world');
+import api from './api';
+
+console.log(api);
